@@ -1,8 +1,6 @@
 "use strict";
-
 // creo un array di email
 const authorizedEmail = ["example1@gmail.com", "example2@hotmail.com", "example3@yahoo.com", "login@gmail.com"];
-
 //creo una funzione che si scatena quando clicco sul bottone.
 function checkEmail() {
     //creo una const che prende il valore di input dell'utente
